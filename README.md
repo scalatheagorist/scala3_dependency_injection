@@ -1,3 +1,6 @@
+**Source: https://gist.github.com/johnhungerford/cc22eb5b23c7407aa45479a845a7ead8**
+
+
 # ZIO-like dependency injection using implicit resolution
 
 Daniel Ciocîrlan recently published a [video](https://www.youtube.com/watch?v=gLJOagwtQDw) showcasing a
